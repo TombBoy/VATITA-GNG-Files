@@ -95,8 +95,6 @@ TopSky plugin:ACList/Sector List/m_Column_9: PLV:4:1:10006:59:84:1:TopSky plugin
 TopSky plugin:ACList/Sector List/m_Column_10:STAR:15:1:10012:18:19:1:TopSky plugin::
 TopSky plugin:ACList/Sector List/m_Column_11:RWY:4:1:10010:19:19:1:TopSky plugin::
 DelHel:DelHel:0|0|0|0|0|0|0|1
-BARS:token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5NWVkNDBkNS1mMTg0LTQzYTEtYWYxYi1kYWUxNjIwN2ZmOGQiLCJlbWFpbCI6InRvbW1hc29kYWxsYXNwYWRhQGdtYWlsLmNvbSIsImNvbnRyb2xsZXJJZCI6IjE2MTQzNjEiLCJpYXQiOjE3MzkxMzcwMDQsImV4cCI6MTc3MDY3MzAwNCwianRpIjoiYjA5ZWJjNjItNGQzMy00OTZiLThkYmMtODYwMjU5ODVjOTA0IiwiaXNzIjoic3RvcGJhcnMtYXV0aCIsImF1ZCI6InN0b3BiYXJzLWFwaSJ9.Q3PUz/wXcVMJXFhPeAdicoNe7Z2AMy/dwXBoelnD3Fo=
-BARS:clickMode:9
 VATITA Controller Plugin:ACList/Mode S/m_Visible:0
 VATITA Controller Plugin:ACList/Mode S/m_X:54
 VATITA Controller Plugin:ACList/Mode S/m_Y:458
